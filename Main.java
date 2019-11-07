@@ -1,5 +1,10 @@
 public class Main {
 
+private void affiche(String str)
+{
+	 System.out.println(str)
+}
+
 public static void main(String[] args){
  Exercice x = new Exercice();
  n++;
